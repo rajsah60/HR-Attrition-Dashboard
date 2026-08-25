@@ -43,8 +43,10 @@ Some important numbers shown in the dashboard are:
 
  📁 Files in this Repository
 
--
--
+- https://github.com/rajsah60/HR-Attrition-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD%20PRACTICE.pbit - Power Bi Dashboard file
+
+- 
+
 
 
 🚀 About This Project
