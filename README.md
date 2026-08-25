@@ -45,7 +45,7 @@ Some important numbers shown in the dashboard are:
 
 - https://github.com/rajsah60/HR-Attrition-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD%20PRACTICE.pbit - Power Bi Dashboard file
 
-- 
+- https://github.com/rajsah60/HR-Attrition-Dashboard/blob/main/Snapshot%20of%20Dashboard.png - Snapshot of Dashboard 
 
 
 
