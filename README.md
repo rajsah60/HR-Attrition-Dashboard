@@ -1,4 +1,4 @@
-# HR-Attrition-Dashboard
+# HR-Attrition Dashboard - Power BI
 
 # Objective:
 Analyze employee attrition patterns and identify key workforce segments associated with employee turnover.
